@@ -45,10 +45,12 @@ _✨ TMI :  Foothold와 관련된 property를 보고 인내의 숲이 생각났�
 
 ### Foot Hold
 - 움직임이 있는 Entity(몬스터, 캐릭터)가 밟을 수 있는 발판 정보
-- File > Settings > 만들기 > 발판 정보를 설정하면 빨간색 선이 엔티티에 표시된다. 
+- File > Settings > 만들기 > 발판 정보를 설정하면 빨간색 선이 엔티티에 표시된다.<br><br>
 ![](https://velog.velcdn.com/images/eheo/post/74d11136-270c-4abe-bd1e-b68ac64db140/image.png)
+
 ![](https://velog.velcdn.com/images/eheo/post/552c7586-21bb-4cb5-9210-3e39a5d17a4d/image.png)
-선을 조정하여 foot hold를 조정할 수 있다.
+
+선을 조정하여 foot hold를 조정할 수 있다. <br>
 ![](https://velog.velcdn.com/images/eheo/post/698bfacb-6b60-4471-b9e1-9709c72f5a62/image.png)
 
 
